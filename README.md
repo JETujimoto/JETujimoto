@@ -6,7 +6,6 @@
 
 ---
 
-## 🛠️ Tecnologias
 
 ## 🛠️ Tecnologias
 
