@@ -2,7 +2,7 @@
 
 🚀 Estudante de Engenharia de Software  
 💻 Desenvolvedor em formação  
-📚 Conhecimentos básicos em Python, JavaScript e CSS  
+
 
 ---
 
@@ -18,11 +18,12 @@
 
 ---
 
+
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JETujimoto&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JETujimoto&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JETujimoto&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JETujimoto&layout=compact)
 
 ---
 
