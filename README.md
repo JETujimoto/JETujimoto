@@ -18,12 +18,11 @@
 
 ---
 
-
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JETujimoto&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JETujimoto&show_icons=true&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JETujimoto&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JETujimoto&layout=compact&theme=tokyonight"/>
 
 ---
 
