@@ -16,13 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </div>
 
----
-
-## 📊 Estatísticas
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JETujimoto&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JETujimoto&layout=compact&theme=tokyonight"/>
 
 
 ---
